@@ -18,4 +18,8 @@ You can either execute the notebook, or run the driver script on the command lin
 
 ### Running on CoffeaCasa
 
-To run on CoffeaCasa, simply go to the sign in page [**(Coffea)**](https://coffea.casa/hub/login)
+To run on CoffeaCasa, simply access the site [https://coffea.casa/hub/login](https://coffea.casa/hub/login) and sign in using either your x-certificate or CERN single sign-on credentials.
+
+### Running on LPC
+
+
