@@ -12,4 +12,10 @@ To run, there are currently several files that work on NanoAODv9:
 * [Optional notebook to call running script and draw plots](https://github.com/rappoccio/QJetMassUproot/blob/master/response_maker_nanov9.ipynb)
 
 
-You can either execute the notebook, or run the driver script on the command line. 
+You can either execute the notebook, or run the driver script on the command line.
+
+## Running the files
+
+### Running on CoffeaCasa
+
+To run on CoffeaCasa, simply go to the sign in page [**(Coffea)**](https://coffea.casa/hub/login)
